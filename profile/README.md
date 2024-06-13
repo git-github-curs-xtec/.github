@@ -13,7 +13,7 @@
 </table>
 </span>
 
-## Benvinguts/des a Formació Git i Github!! 👋
+## Benvinguts/des a la Formació Git i Github!! 👋
 Aquest és el perfil d'organització que usarem com a suport per a impartir la **formació de Git i GitHub** a l'[Institut Tecnològic de Barcelona](https://itecbcn.eu/) 
 
 👩‍💻 Aquí hi trobarem teoria, exemples, exercicis, etc.
